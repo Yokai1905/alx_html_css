@@ -1,5 +1,6 @@
 
 body {
+    background-color:#ffecda;
     display: flex;
     flex-direction: column; 
     min-height: 100vh; 
@@ -34,7 +35,7 @@ aside {
 
 
 header, footer {
-    background-color: #f1f1f1;
+    background-color: #ea882b;
     padding: 10px;
     text-align: center;
 }
